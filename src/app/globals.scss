@@ -1,12 +1,13 @@
 html,
 body {
   height: 100%;
+  background-color: black;
 }
 
 .wrapper {
   font-size: 1.6rem;
   line-height: 2.1rem;
-  color: #000000;
+  color: white;
   min-height: 100%;
   display: flex;
   flex-direction: column;
