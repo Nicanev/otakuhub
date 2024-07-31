@@ -1,7 +1,7 @@
 .banner {
   &__img {
     position: relative;
-    height: 80vh;
+    height: 70rem;
     img {
       border-radius: 0 0 3rem 3rem;
       filter: brightness(60%);
@@ -9,7 +9,8 @@
   }
   &__content {
     position: absolute;
-    bottom: 40%;
+    top: 45rem;
+    // bottom: 2rem;
     z-index: 1;
   }
   &__text_container {
@@ -19,7 +20,7 @@
   }
   &__text_title {
     font-weight: 500;
-    font-size: 7vh;
+    font-size: 7rem;
   }
   &__text_description {
     font-size: 2rem;
